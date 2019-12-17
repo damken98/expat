@@ -1,0 +1,31 @@
+body
+{
+	background-image: url(fe.jpg);
+	background-attachment: fixed;
+}
+
+h1
+{
+	background-color: blue;
+	font-size: 64px;
+	text-align: center;
+	box-shadow: 10px 10px 16px black;
+}
+a
+{
+	font-size: 20px;
+	color: blue;
+}
+li
+{
+	font-size: 20px;
+}
+#intro
+{
+	font-size: 30px;
+}
+
+#import:hover
+{
+	color: red;
+}

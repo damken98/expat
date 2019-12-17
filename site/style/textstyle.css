@@ -1,0 +1,46 @@
+body
+{
+	background-color: #000000;
+}
+
+h1
+{
+	color: #ff0000;
+	text-align: center;
+	text-shadow: box-shadow: 8px 8px 15px black;
+	font-size: 4em;
+	background-color: #804000;
+	opacity: 0.6
+	box-shadow: 0.8px 0.8px 15px #c0C0C0;
+}
+
+h2
+{
+color: #ff0000;
+	text-align: center;
+	font-size: 3em;	
+	border: 1px #808080 solid;
+	background-color: #800000;
+	
+}
+
+p
+{
+	color: #ffffff
+}
+
+.det
+{
+	color: #ff00ff;
+	text-align: center;
+}
+
+#link
+{
+	color: #ff0000
+}
+#ken2
+{
+	float: left;
+}
+
